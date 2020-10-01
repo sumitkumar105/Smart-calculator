@@ -87,3 +87,4 @@ list = Listbox(win,width=20,height=3)
 list.place(x=150,y=230)
 
 win.mainloop()
+print("the calculator")
